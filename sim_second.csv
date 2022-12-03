@@ -1,3 +1,4 @@
+type,sim_sec
 1024-n-regs_16-rob-entries_16-iq-entries,0.006321
 1024-n-regs_16-rob-entries_256-iq-entries,0.006321
 1024-n-regs_16-rob-entries_4-iq-entries,0.010484
